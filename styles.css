@@ -3,7 +3,7 @@ body {
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 header {
@@ -36,7 +36,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 50px;
 }
 
 .categoria {
